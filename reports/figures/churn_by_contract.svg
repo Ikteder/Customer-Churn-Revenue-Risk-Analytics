@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f8fafc" />
+  <rect x="40" y="40" width="1120" height="620" rx="24" fill="#ffffff" stroke="#d0d7de" stroke-width="3" />
+  <text x="70" y="105" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827">Churn Rate by Contract Type</text>
+  <text x="70" y="150" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#4b5563">Placeholder panel included for clean GitHub rendering.</text>
+  <text x="70" y="185" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#4b5563">Run the pipeline to export the real chart and replace this file.</text>
+  <rect x="90" y="250" width="160" height="320" fill="#cbd5e1" rx="12"/>
+  <rect x="310" y="340" width="160" height="230" fill="#94a3b8" rx="12"/>
+  <rect x="530" y="180" width="160" height="390" fill="#64748b" rx="12"/>
+  <rect x="750" y="280" width="160" height="290" fill="#475569" rx="12"/>
+  <rect x="970" y="380" width="120" height="190" fill="#334155" rx="12"/>
+  <line x1="80" y1="580" x2="1110" y2="580" stroke="#94a3b8" stroke-width="3"/>
+  <text x="90" y="625" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#6b7280">reports/figures</text>
+</svg>
