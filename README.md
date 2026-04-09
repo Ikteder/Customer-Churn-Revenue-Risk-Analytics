@@ -134,6 +134,3 @@ After running the pipeline, the repo will generate files such as:
 - `reports/figures/revenue_risk_by_segment.png`
 - `reports/figures/confusion_matrix_best_model.png`
 - `reports/figures/feature_importance_top15.png`
-- You balanced predictive performance with business interpretability
-- You tied model outputs directly to revenue-risk prioritization
-- You built a project that is reproducible, explainable, and presentation-ready
