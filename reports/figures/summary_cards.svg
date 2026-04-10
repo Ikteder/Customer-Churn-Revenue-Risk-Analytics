@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 0 1400 340">
+  <rect width="1400" height="340" rx="24" fill="#0f172a"/>
+  <g font-family="Arial" fill="#ffffff">
+    <rect x="45" y="55" width="290" height="220" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="75" y="100" font-size="22" font-weight="700">Questions Answered</text>
+    <text x="75" y="142" font-size="17" fill="#cbd5e1">• Who is likely to churn?</text>
+    <text x="75" y="172" font-size="17" fill="#cbd5e1">• Which segments drive risk?</text>
+    <text x="75" y="202" font-size="17" fill="#cbd5e1">• What should be prioritized?</text>
+
+    <rect x="380" y="55" width="290" height="220" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="410" y="100" font-size="22" font-weight="700">Workflow</text>
+    <text x="410" y="142" font-size="17" fill="#cbd5e1">Cleaning → Features → Models</text>
+    <text x="410" y="172" font-size="17" fill="#cbd5e1">SQL analysis → Segment risk</text>
+    <text x="410" y="202" font-size="17" fill="#cbd5e1">Evaluation → Recommendations</text>
+
+    <rect x="715" y="55" width="290" height="220" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="745" y="100" font-size="22" font-weight="700">Deliverables</text>
+    <text x="745" y="142" font-size="17" fill="#cbd5e1">Metrics summary</text>
+    <text x="745" y="172" font-size="17" fill="#cbd5e1">Segment risk tables</text>
+    <text x="745" y="202" font-size="17" fill="#cbd5e1">Dashboard-ready outputs</text>
+
+    <rect x="1050" y="55" width="305" height="220" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="1080" y="100" font-size="22" font-weight="700">Stack</text>
+    <text x="1080" y="142" font-size="17" fill="#cbd5e1">Python, pandas, SQL</text>
+    <text x="1080" y="172" font-size="17" fill="#cbd5e1">scikit-learn, XGBoost</text>
+    <text x="1080" y="202" font-size="17" fill="#cbd5e1">matplotlib, Streamlit</text>
+  </g>
+</svg>

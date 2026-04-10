@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <rect width="1400" height="420" rx="24" fill="#0f172a"/>
+  <g font-family="Arial">
+    <text x="55" y="55" font-size="28" font-weight="700" fill="#ffffff">Expected result panels after pipeline execution</text>
+    <rect x="55" y="90" width="410" height="135" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="85" y="125" font-size="22" font-weight="700" fill="#ffffff">Churn by contract</text>
+    <text x="85" y="160" font-size="16" fill="#cbd5e1">Segment-level churn view for month-to-month, one-year, and two-year plans.</text>
+
+    <rect x="495" y="90" width="410" height="135" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="525" y="125" font-size="22" font-weight="700" fill="#ffffff">Model comparison</text>
+    <text x="525" y="160" font-size="16" fill="#cbd5e1">ROC-AUC, F1, precision, and recall across classification models.</text>
+
+    <rect x="935" y="90" width="410" height="135" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="965" y="125" font-size="22" font-weight="700" fill="#ffffff">Revenue risk by segment</text>
+    <text x="965" y="160" font-size="16" fill="#cbd5e1">Highlights high-value, high-risk customer groups for retention targeting.</text>
+
+    <rect x="55" y="255" width="410" height="120" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="85" y="290" font-size="22" font-weight="700" fill="#ffffff">Confusion matrix</text>
+    <text x="85" y="323" font-size="16" fill="#cbd5e1">Shows false-positive and false-negative tradeoffs for the selected model.</text>
+
+    <rect x="495" y="255" width="410" height="120" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="525" y="290" font-size="22" font-weight="700" fill="#ffffff">Feature importance</text>
+    <text x="525" y="323" font-size="16" fill="#cbd5e1">Makes the biggest churn drivers visible for business interpretation.</text>
+
+    <rect x="935" y="255" width="410" height="120" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="965" y="290" font-size="22" font-weight="700" fill="#ffffff">Top at-risk customers</text>
+    <text x="965" y="323" font-size="16" fill="#cbd5e1">Produces decision-ready tables for targeted retention outreach.</text>
+  </g>
+</svg>
